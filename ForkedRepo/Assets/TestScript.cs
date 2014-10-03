@@ -1,11 +1,10 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 
-public class NewBehaviourScript : MonoBehaviour {
+public class TestScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		print (“Hello World”);
 	
 	}
 	
